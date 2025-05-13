@@ -92,17 +92,17 @@ To run this project locally:
 6. Run the site in your browser
 	http://localhost/your-folder-name
 
-##💬 Contribution & Feedback
+## 💬 Contribution & Feedback
 
 This is a collaborative educational project created by a group of students.
 If you'd like to contribute, fork the repo and submit a pull request — we welcome improvements, ideas, and bug fixes!
 
-##📜 License
+## 📜 License
 
 This project is developed strictly for academic and educational purposes.
 External use, redistribution, or modification must credit the original contributors.
 
-##🙌 Thank You!
+## 🙌 Thank You!
 
 We hope you enjoy exploring and learning from our Amazing WordPress Project!
 Feel free to connect with us or share feedback via GitHub or classroom platforms.
