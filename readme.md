@@ -32,11 +32,11 @@ Key goals of this project:
 ## 📁 Project Structure
 
 wordpress/
-├── wp-admin/ → WordPress admin dashboard files
-├── wp-content/ → Our custom themes, plugins, and media uploads
-│ ├── themes/
-│ └── plugins/
-├── wp-includes/ → Core WordPress functionalities
+├── wp-admin/         → WordPress admin dashboard files
+├── wp-content/       → Our custom themes, plugins, and media uploads
+│   ├── themes/
+│   └── plugins/
+├── wp-includes/      → Core WordPress functionalities
 ├── index.php
 ├── wp-config.php
 └── ...
